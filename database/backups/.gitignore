@@ -1,0 +1,3 @@
+# Database exports are local backups and must not be committed.
+*.sql
+
